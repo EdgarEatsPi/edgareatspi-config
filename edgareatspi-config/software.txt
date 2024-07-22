@@ -1,0 +1,3 @@
+- Software I use
+Terminal: Kitty
+Editor: Neovim
